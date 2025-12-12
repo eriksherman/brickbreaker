@@ -1,5 +1,7 @@
 # BrickBreaker (HTML Canvas Demo)
 
+Summary: A concise, dependency-free Brick Breaker game built with HTML5 Canvas. It runs entirely in the browser with a simple game loop, a paddle, a ball, and bricks. This single-file demo is ideal for learning Canvas rendering and basic game mechanics.
+
 A tiny single-file brick breaker game implemented in plain HTML5 Canvas and JavaScript. No libraries required.
 
 ## Overview
